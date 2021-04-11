@@ -15,8 +15,9 @@ $isMobilePhoneValid = true;
 $isCreditCardNumberValid = true;
 $isExpiryDateValid = true;
 $isMonthlySalaryValid = true;
+$isGpaValid = true;  
 $isUrlValid = true;
-$isGpaValid = true;
+
 
 
 if($_SERVER["REQUEST_METHOD"]=="POST"){
